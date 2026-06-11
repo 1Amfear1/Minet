@@ -1,0 +1,10 @@
+*
+!saves/
+!saves/Новый мир/
+!saves/Новый мир/**
+!.gitignore
+saves/Новый мир/session.lock
+saves/Новый мир/playerdata/
+saves/Новый мир/stats/
+saves/Новый мир/advancements/
+saves/Новый мир/level.dat_old
